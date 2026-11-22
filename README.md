@@ -25,7 +25,7 @@ Tracks how employees took part in company training and how they scored.
 - Enrollments by month
 - Top scores and low scores broken down by category (Soft Skills, Technical, Management, Compliance)
 
-![TWDP HR Training Report](TWDP HR REPORT.png)
+![TWDP HR Training Report](IMG_TWDP_HR_REPORT.png)
 
 ## How I built them
 
