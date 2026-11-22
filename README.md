@@ -47,4 +47,4 @@ The data in these reports is [sample data provided during training / describe yo
 ## Author
 
 Gideon Adebayo
-[LinkedIn link]
+www.linkedin.com/in/gideon-adebayo-
